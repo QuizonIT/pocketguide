@@ -1,7 +1,7 @@
 <?php
     $database = 'mysql:host=localhost; dbname=pocketguide';
-    $user = 'pocketguide-admin';
-    $pwd = 'n4mn3rzlw3.ft5-J';
+    $user = 'pocketguide_admin';
+    $pwd = 'GI@gPd9O-d0dg!mn';
 
     try{
         $pdo = new PDO($database, $user, $pwd);
